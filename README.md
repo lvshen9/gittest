@@ -7,3 +7,4 @@ git study
 4.我来做一个测试
 5.master新增
 6.测试哈哈
+7.提交7到release
