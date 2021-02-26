@@ -20,4 +20,3 @@ git study
 20.test20
 21.test21
 22.test22
-23.test23
